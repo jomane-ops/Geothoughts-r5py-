@@ -14,6 +14,7 @@ Beyond identifying the nearest facility based on minimum travel time, the demo c
 (4)Navigation efficiency, showing how road structure affects route choice and travel distribution.
 
 By integrating routing outputs with spatial indicators, the analysis paints a broader picture of mobility dynamics in Bulawayo. It demonstrates how infrastructure configuration, road connectivity, and settlement distribution collectively shape access to essential services and overall urban functionality. The results support strategic mobility planning, infrastructure investment decisions, and long-term spatial planning aimed at improving equitable access and network resilience across the metropolitan region.
+
 The tools used:
 
 Docker Desktop,
@@ -34,6 +35,6 @@ General Transit Feed Specification
 
 DEM.
 
-Libraries import r5py,geopandas,geopandas as gpd,pandas as pd,datetime,shapely.
+Library import: r5py,geopandas,geopandas as gpd,pandas as pd,datetime,shapely.
 The workflow follows this structure <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/15b018da-0496-4682-b193-994fcfef6552" />
-Results are an Interactive WebGIS
+Results view,interactive WebGIS
