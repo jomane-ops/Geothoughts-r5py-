@@ -33,8 +33,8 @@ Health facilities
 
 General Transit Feed Specification 
 
-DEM.
+DEM 
 
 Library import: r5py,geopandas,geopandas as gpd,pandas as pd,datetime,shapely.
 The workflow follows this structure <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/15b018da-0496-4682-b193-994fcfef6552" />
-Results view,interactive WebGIS
+click WebGis for results.
